@@ -1,0 +1,1 @@
+document.getElementById("Portrait").onselectstart = function() { return false; }
